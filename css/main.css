@@ -10,10 +10,16 @@ table, th, td {
   border: 1px solid #000;
 }
 
-li {
-  background-color:
-}
-
 .grey {
   background-color: #f2f2f2;
+  color: #666;
+  border: 2px solid #ccc;
+  border-radius: 8px;
+}
+
+.red {
+  background-color: #f2bcbc;
+  color: #991919;
+  border: 2px solid #b92828;
+  border-radius: 8px;
 }

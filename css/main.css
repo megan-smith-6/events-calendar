@@ -1,5 +1,6 @@
 html {
   font-family: Merriweather, serif;
+  color: #333;
 }
 
 td {
@@ -7,7 +8,7 @@ td {
 }
 
 table, th, td {
-  border: 1px solid #000;
+  border: 1px solid #ccc;
 }
 
 .grey {
@@ -21,5 +22,19 @@ table, th, td {
   background-color: #f2bcbc;
   color: #991919;
   border: 2px solid #b92828;
+  border-radius: 8px;
+}
+
+.green {
+  background-color: #d1e0bf;
+  color: #51603f;
+  border: 2px solid #6b7e54;
+  border-radius: 8px;
+}
+
+.blue {
+  background-color: #d2d6f0;
+  color: #38448e;
+  border: 2px solid #1d38da;
   border-radius: 8px;
 }

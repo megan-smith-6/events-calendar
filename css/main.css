@@ -1,40 +1,43 @@
 html {
   font-family: Merriweather, serif;
-  color: #333;
 }
 
 td {
-  height: 10em;
+  height: 9em;
 }
 
 table, th, td {
   border: 1px solid #ccc;
 }
 
+th {
+  color: #333;
+}
+
 .grey {
   background-color: #f2f2f2;
-  color: #666;
-  border: 2px solid #ccc;
+  color: #333;
+  border: 1px solid #666;
   border-radius: 8px;
 }
 
 .red {
   background-color: #f2bcbc;
   color: #991919;
-  border: 2px solid #b92828;
+  border: 1px solid #b92828;
   border-radius: 8px;
 }
 
 .green {
   background-color: #d1e0bf;
   color: #51603f;
-  border: 2px solid #6b7e54;
+  border: 1px solid #6b7e54;
   border-radius: 8px;
 }
 
 .blue {
   background-color: #d2d6f0;
   color: #38448e;
-  border: 2px solid #1d38da;
+  border: 1px solid #1d38da;
   border-radius: 8px;
 }
